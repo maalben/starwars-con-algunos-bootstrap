@@ -1,3 +1,11 @@
 #imagen1 {
     border-radius: 20px;
   }
+
+  body{
+    background: url('../media/images/fondo.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
